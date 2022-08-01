@@ -1,2 +1,4 @@
 com\sparrow\basicstruts\action\HelloWorldAction.class
+com\sparrow\basicstruts\action\Register.class
 com\sparrow\basicstruts\model\MessageStore.class
+com\sparrow\basicstruts\model\Person.class
