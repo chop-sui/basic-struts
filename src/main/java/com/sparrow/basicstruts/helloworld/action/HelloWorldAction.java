@@ -1,7 +1,7 @@
-package com.sparrow.basicstruts.action;
+package com.sparrow.basicstruts.helloworld.action;
 
 import com.opensymphony.xwork2.ActionSupport;
-import com.sparrow.basicstruts.model.MessageStore;
+import com.sparrow.basicstruts.helloworld.model.MessageStore;
 
 /**
  * Action class acts as the controller in the MVC pattern

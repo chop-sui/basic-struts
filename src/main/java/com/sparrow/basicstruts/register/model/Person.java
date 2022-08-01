@@ -1,4 +1,4 @@
-package com.sparrow.basicstruts.model;
+package com.sparrow.basicstruts.register.model;
 
 public class Person {
     private String firstName;

@@ -1,4 +1,4 @@
-com\sparrow\basicstruts\action\HelloWorldAction.class
-com\sparrow\basicstruts\action\Register.class
-com\sparrow\basicstruts\model\MessageStore.class
-com\sparrow\basicstruts\model\Person.class
+com\sparrow\basicstruts\register\action\Register.class
+com\sparrow\basicstruts\helloworld\action\HelloWorldAction.class
+com\sparrow\basicstruts\register\model\Person.class
+com\sparrow\basicstruts\helloworld\model\MessageStore.class

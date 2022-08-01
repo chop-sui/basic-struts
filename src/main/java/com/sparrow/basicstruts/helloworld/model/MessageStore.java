@@ -1,4 +1,4 @@
-package com.sparrow.basicstruts.model;
+package com.sparrow.basicstruts.helloworld.model;
 
 public class MessageStore {
     private String message;
