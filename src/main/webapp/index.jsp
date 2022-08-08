@@ -24,5 +24,8 @@
 
         <s:url action="registerInput" var="registerInputLink" />
         <p><s:a href="%{registerInputLink}">Please register</s:a> for our prize drawing.</p>
+
+        <hr />
+        <s:text name="contact" />
     </body>
 </html>
